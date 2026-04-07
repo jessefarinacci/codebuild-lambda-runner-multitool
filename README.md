@@ -1,4 +1,4 @@
-# CodeBuild Lambda Runner MultiTool
+# CodeBuild Lambda Runner
 
 This project aims to provide an [AWS Lambda](https://aws.amazon.com/lambda/)
 function which can be leveraged by [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)

@@ -9,5 +9,8 @@ but they lack modern toolchains.
 
 - [https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html]
 - [https://aws.amazon.com/lambda/]
+- [https://gallery.ecr.aws/]
+- [https://documentation.ubuntu.com/release-notes/26.04/]
 - [https://github.com/aws/aws-codebuild-docker-images/blob/master/ubuntu/standard/7.0/Dockerfile]
-- [https://github.com/chainguard-images/images/tree/main/images/]
+- [https://help.ubuntu.com/community/MetaPackages]
+- [https://help.ubuntu.com/community/Repositories/Personal]
